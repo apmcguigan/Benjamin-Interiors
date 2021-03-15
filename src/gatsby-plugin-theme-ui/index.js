@@ -1,23 +1,23 @@
 export default {
   colors: {
-    text: '#000',
+    text: '#333333',
     background: '#fff',
-    primary: '#5C2941',
+    primary: '#DDBEA9',
     accent: '#fff',
-    muted: 'rgba(0, 0, 0, 0.7)',
+    muted: '#333333',
     cardBg: '#fff',
     borderColor:"#540229",
-    labelText: "#777",
+    labelText: "#333333",
     inputBorder: "#aaa",
     inputBackground: "#fff",
-    socialIcons:"#a8959e",
-    socialIconsHover:"#5c2941",
+    socialIcons:"#7C7C7C",
+    socialIconsHover:"#7C7C7C",
     modes: {
       dark: {
         text: '#f5f5f5',
         background: '#111',
         primary: '#252525',
-        accent: '#5C2941',
+        accent: '#DDBEA9',
         muted: 'rgba(255, 255, 255, 0.7)',
         buttonAccent: '#fff',
         cardBg: '#252525',
@@ -38,7 +38,7 @@ export default {
       }
     },
     button: {
-      bg: 'buttonAccent',
+      bg: '#EBE5DE',
       color: 'accent'
     }
   }
