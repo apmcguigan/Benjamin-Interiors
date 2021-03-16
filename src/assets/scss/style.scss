@@ -273,7 +273,7 @@ article img {
 	transition: background .3s linear;
 	&:hover {
 		background-color: var(--button-color);
-		color: var( --button-alternate-color);
+		color: #fff;
 	}
 	&.-outline {
 		color: var(--primary-color);
