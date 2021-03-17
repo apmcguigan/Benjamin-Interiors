@@ -31,12 +31,21 @@ const Layout = ({children, className, props}) => {
   return (
     <div className="primary-container">
       <Header>
-        <Logo title={siteTitle} />
         <Navigation/>
         <div sx={layoutStyle.theme}>
           <Theme/>
         </div>
+
       </Header>
+      <header 
+    className="site-logo"
+    sx={{
+      bg: 'primary'
+    }}
+  >
+      <Logo title={siteTitle} />
+      </header>
+
       <main className={"container " + className}>
         {children}
       </main>

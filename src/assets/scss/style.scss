@@ -15,7 +15,7 @@
   justify-content: space-between;
   align-items: center;
   position: relative;
-  padding: 30px 20px;
+  padding-top: 20px;
 }
 .site-navigation {
   ul {
@@ -94,7 +94,11 @@
 }
 .site-logo {
   font-weight: bold;
-  a {
+	text-align: center !important;
+	background-color: #9CAF88;
+  padding: 1px 1px;
+	
+  h1 {
     color: #fff;
 		text-decoration: none;
 		&:hover {
