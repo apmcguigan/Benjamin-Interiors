@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: About Benjamin
+tagline: My Journey in Designing
+featuredImage: /assets/benjamin.jpg
 cta:
-  ctaText: Know more
+  ctaText: Learn more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Benjamin is an interior designer driven by his passion for beautiful and functional spaces. After purchasing his home in 2019 he took it as the perfect opportunity to design the space into the perfect peaceful space he had always dreamed of. 
