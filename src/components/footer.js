@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container" >
-      <ul className="site-navigation">
+      <ul>
         <li>
           <a href="https://www.facebook.com/Benjamin-Interiors-100653905261930/" target="_blank">
           <p>Facebook</p></a></li>
