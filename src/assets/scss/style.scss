@@ -11,7 +11,6 @@
 	min-height: calc(100vh - 60px - 81px);
 }
 .site-header {
-  display: flex;
   justify-content: space-between;
   align-items: center;
   position: relative;
@@ -49,7 +48,9 @@
   @media (max-width: $breakpoint-lg) {
     .menu-trigger,
     .icon-menu-line {
-      display: flex;
+			float: right;
+      display: inherit;
+			padding: 5px;
     }
 
     .icon-menu-close {
@@ -65,6 +66,7 @@
     }
     .menu-trigger.is-active + ul {
       display: block;
+			margin-top: 35px;
     }
     ul {
       display: none;

@@ -30,6 +30,7 @@ const Layout = ({children, className, props}) => {
 
   return (
     <div className="primary-container">
+      <div>
       <Header>
         <Navigation/>
         <div sx={layoutStyle.theme}>
@@ -37,15 +38,9 @@ const Layout = ({children, className, props}) => {
         </div>
 
       </Header>
-      <header 
-    className="site-logo"
-    sx={{
-      bg: 'primary'
-    }}
-  >
       <Logo title={siteTitle} />
-      </header>
-
+      </div>
+      
       <main className={"container " + className}>
         {children}
       </main>
