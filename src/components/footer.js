@@ -10,9 +10,16 @@ const Footer = () => (
       bg: 'primary'
     }}
   >
-    <div className="container">
-      <p>A GatsbyJS Starter for Netlify CMS, Made with <span className="icon -love"><RiHeart2Line/></span> by <Link to="/">Stackrole.com</Link></p>
-    </div>
+    <div className="container" >
+      <ul className="site-navigation">
+        <li>
+          <a href="https://www.facebook.com/Benjamin-Interiors-100653905261930/" target="_blank">
+          <p>Facebook</p></a></li>
+        <li><a href="https://www.instagram.com/benjamin_interiors/" target="_blank">        
+          <p>Instagram</p></a>
+        </li>
+      </ul>
+       </div>
   </footer>
 )
 

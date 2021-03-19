@@ -94,6 +94,14 @@
 	max-width: 1240px;
 	padding: 0 20px;
 }
+.container-footer {
+	display: flex;
+	justify-content: space-between;
+  align-items: center;
+	margin: 0 auto;
+	max-width: 1240px;
+	padding: 0 20px;
+}
 .site-logo {
   font-weight: bold;
 	text-align: center !important;
@@ -356,6 +364,15 @@ article img {
 	text-align: center;
 	font-size: 14px;
 	padding: 20px 0;
+  ul {
+    list-style: none;
+    margin: 0;
+		padding: 0;
+  }
+  ul li {
+    display: inline-block;
+    margin-left: 20px;
+  }
 	p {
 		margin: 0;
 		color: #fff;
