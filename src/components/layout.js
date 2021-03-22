@@ -30,14 +30,14 @@ const Layout = ({children, className, props}) => {
 
   return (
     <div className="primary-container">
-      <div>
-      <Header>
+            <Header>
         <Navigation/>
         <div sx={layoutStyle.theme}>
           <Theme/>
         </div>
 
       </Header>
+      <div>
       <Logo title={siteTitle} />
       </div>
       

@@ -13,9 +13,21 @@
 .site-header {
   justify-content: space-between;
   align-items: center;
-  position: relative;
+  position: fixed;
   padding-top: 20px;
+	padding-bottom: 5px;
+	top: 0;
+  width: 100%;
+	z-index: 100;
+
+	@media (max-width: $breakpoint-lg) {
+		position: relative;
+		z-index: auto;
+	padding: 0px;
+
 }
+	}
+
 .site-navigation {
   ul {
     list-style: none;
@@ -102,12 +114,14 @@
 	max-width: 1240px;
 	padding: 0 20px;
 }
+.padding-t {
+	padding-top: 60px;
+}
 .site-logo {
   font-weight: bold;
 	text-align: center !important;
 	background-color: #9CAF88;
-  padding: 1px 1px;
-	
+  padding: 40px 1px 0px;
   h1 {
     color: #fff;
 		text-decoration: none;
