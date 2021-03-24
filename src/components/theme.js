@@ -2,13 +2,27 @@
 import { jsx } from "theme-ui"
 import { FiMoon } from "react-icons/fi";
 import { FiSun } from "react-icons/fi";
+import { FiMail } from "react-icons/fi";
 import { useColorMode } from 'theme-ui'
 
 const Theme = () => {
   const [colorMode, setColorMode] = useColorMode()
   return(
     <div sx={themeStyles.modeOption}>
+      <button
+        onClick={e => {
+          setColorMode(colorMode === 'default' ? 'dark' : 'default')
+        }}>
+          <div sx={themeStyles.modeIcons}>
+            <div>
+              {colorMode === 'default' ? <FiMail/> : <FiSun/> }
+            </div>
+            <div sx={themeStyles.modeText}>
+              {colorMode === 'default' ? 'Dark' : 'Light'}
+            </div>
+          </div>
 
+      </button>
     </div>
   )
 }

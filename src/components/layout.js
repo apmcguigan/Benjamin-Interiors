@@ -9,7 +9,6 @@ import Navigation from "./navigation";
 
 import "../assets/scss/style.scss"
 import Footer from "./footer";
-import Theme from "../components/theme"
 
 
 const query = graphql`
@@ -30,12 +29,8 @@ const Layout = ({children, className, props}) => {
 
   return (
     <div className="primary-container">
-            <Header>
-        <Navigation/>
-        <div sx={layoutStyle.theme}>
-          <Theme/>
-        </div>
-
+      <Header>
+      <Navigation/>
       </Header>
       <div>
       <Logo title={siteTitle} />

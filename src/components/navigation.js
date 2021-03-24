@@ -3,7 +3,10 @@ import { jsx } from "theme-ui"
 import React from "react"
 import { Link } from "gatsby"
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import Theme from "../components/theme"
+import { FiMail } from "react-icons/fi"
+import { FiInstagram } from "react-icons/fi"
+import { FiFacebook } from "react-icons/fi"
+
 
 const MenuItems = [
   {
@@ -46,13 +49,21 @@ class Navigation extends React.Component {
     )
     return (
       <nav className="site-navigation" sx={navStyle.menu}>
+
+       <button className="header-socials"><a href="https://www.instagram.com/benjamin_interiors/"
+          target="_blank"> 
+          <FiInstagram/></a></button>
+
+       <button className="header-socials">
+         <a href="https://www.facebook.com/Benjamin-Interiors-100653905261930/" target="_blank">  <FiFacebook/></a></button>
+
+       <button className="header-socials"><Link to="/contact"> <FiMail/></Link></button>
         <button onClick={this.handleToggleClick} className={"menu-trigger" + (this.state.showMenu ? " is-active" : "")}>
           <div className="icon-menu-line"><RiMenu3Line/></div>
           <div className="icon-menu-close"><RiCloseLine/></div>
         </button>
         <ul>
           {listMenuItems}
-          <div sx={navStyle.border}></div>
         </ul>
       </nav>
     )
@@ -70,10 +81,5 @@ const navStyle = {
   theme:{
     display:["block", "block", "block", "none"],
     p:" 25px 20px 20px",
-  },
-  border: {
-    bg:"borderColor",
-    borderTop:"1px solid transparent",
-    display:["block", "block", "block", "none"],
   }
 }
