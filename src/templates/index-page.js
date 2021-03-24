@@ -10,6 +10,7 @@ import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 import Icons from "../util/socialmedia.json"
+import Gallery from "../components/Gallery"
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
@@ -64,6 +65,7 @@ const HomePage = ({ data }) => {
 	return (
 		<Layout>
       <SEO/>
+    <Gallery/>
       <div className="home-banner grids col-1 sm-2">
         <div>
           <h1 className="title">{frontmatter.title}</h1>
