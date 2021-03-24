@@ -10,7 +10,7 @@ import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 import Icons from "../util/socialmedia.json"
-import Gallery from "../components/Gallery"
+import Gallery from "../components/gallery"
 
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
