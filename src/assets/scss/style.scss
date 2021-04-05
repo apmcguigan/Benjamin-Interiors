@@ -408,11 +408,19 @@ article img {
   padding: 15px;
 	width: 33.33%;	
 	img {
+		object-fit: cover;
+		object-position: center center;
 		margin-top: 8px;
 		width: 100%;
+		max-width: 370px;
+		max-height: 370px;
 	}
 	@media (max-width: $breakpoint-lg) {
 		padding: 5px;
+		img {
+			max-width: 96px;
+			max-height: 96px;
+		}
 	}
 }
 
