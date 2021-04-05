@@ -47,7 +47,7 @@ const HomePage = ({ data }) => {
 		<Layout>
       <SEO/>
     <Gallery/>
-      <div className="home-banner grids col-1 sm-2">
+      <div id="About" className="home-banner grids col-1 sm-2">
         <div>
           <h1 className="title">{frontmatter.title}</h1>
           <p 
@@ -59,15 +59,6 @@ const HomePage = ({ data }) => {
             {frontmatter.tagline}
           </p>
           <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
-          <Link 
-            to={frontmatter.cta.ctaLink} 
-            className="button"
-            sx={{
-              variant: 'links.button'
-            }}
-          >
-            {frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span>
-          </Link>
         </div>
         <div>
           {Image ? (
