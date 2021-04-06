@@ -1,7 +1,7 @@
 export default {
   colors: {
     text: '#000000',
-    background: '#E5E5E5',
+    background: '#F0F0F0',
     primary: '#9CAF88',
     accent: '#fff',
     muted: '#7a8890',
@@ -15,7 +15,7 @@ export default {
     modes: {
       dark: {
         text: '#f5f5f5',
-        background: '#111',
+        background: '#F0F0F0',
         primary: '#252525',
         accent: '#DDBEA9',
         muted: 'rgba(255, 255, 255, 0.7)',
