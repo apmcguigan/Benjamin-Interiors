@@ -414,6 +414,9 @@ article img {
 		width: 100%;
 		max-width: 370px;
 		max-height: 370px;
+		&:hover {
+			opacity: 0.5;
+		}
 	}
 	@media (max-width: $breakpoint-lg) {
 		padding: 5px;
