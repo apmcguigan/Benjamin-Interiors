@@ -5,16 +5,16 @@ const Gallery = () => (
 <div> 
   <div className="row">
     <div className="column">
-    <a target="_blank" href="https://www.instagram.com/p/CMe3E3NJDiy/"><img src="/assets/image1.jpg"></img></a>
+    <a target="_blank" href="https://www.instagram.com/p/CMe3E3NJDiy/"><img src="/assets/image1.jpg" alt=""></img></a>
     </div>
     <div className="column">
     <a target="_blank" href="https://www.instagram.com/p/CLMsS-tpUck/">
-      <img src="/assets/image2.jpg">
+      <img src="/assets/image2.jpg" alt="">
     </img></a>
     </div>
     <div className="column">
     <a target="_blank" href="https://www.instagram.com/p/CMNZwyvp5Qd/">
-      <img src="/assets/image3.jpg">
+      <img src="/assets/image3.jpg" alt="">
       </img>
       </a>
     </div>
@@ -22,16 +22,16 @@ const Gallery = () => (
   
   <div className="row">
     <div className="column">
-      <a target="_blank" href="https://www.instagram.com/p/CK1nF6qJKWn/"><img src="/assets/image4.jpg"></img></a>
+      <a target="_blank" href="https://www.instagram.com/p/CK1nF6qJKWn/"><img src="/assets/image4.jpg" alt=""></img></a>
     </div>
     <div className="column">
       <a  target="_blank" href="https://www.instagram.com/p/CJ_fZaPFlsS/">
-      <img src="/assets/image5.jpg"></img>
+      <img src="/assets/image5.jpg" alt=""></img>
       </a>
     </div>
     <div className="column">
       <a target="_blank" href="https://www.instagram.com/p/CKKHgNnl-QV/">
-      <img src="/assets/image6.jpg"></img>
+      <img src="/assets/image6.jpg" alt=""></img>
       </a>
     </div>
   </div>
