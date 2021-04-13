@@ -1,9 +1,9 @@
 {
   "meta": {
     "title": "Benjamin Interiors",
-    "titleTemplate": "%s",
+    "titleTemplate": "Benjamin Interiors",
     "description": "Interior Designer helping your home live its best life. Sharing my home, decor tips, and client projects",
-    "siteUrl": "https://foundation.stackrole.com",
+    "siteUrl": "https://benjamin-interiors.netlify.app",
     "image": "/assets/favicon.png",
     "iconimage": "/assets/favicon.png",
     "twitterUsername": "@stackrole"
