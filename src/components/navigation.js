@@ -50,12 +50,12 @@ class Navigation extends React.Component {
     return (
       <nav className="site-navigation" sx={navStyle.menu}>
 
+      <button className="header-socials fb_button">
+         <a href="https://www.facebook.com/Benjamin-Interiors-100653905261930/" target="_blank">  <FiFacebook/></a></button>
+
        <button className="header-socials"><a href="https://www.instagram.com/benjamin_interiors/"
           target="_blank"> 
           <FiInstagram/></a></button>
-
-       <button className="header-socials">
-         <a href="https://www.facebook.com/Benjamin-Interiors-100653905261930/" target="_blank">  <FiFacebook/></a></button>
 
        <button className="header-socials"><Link to="/contact"> <FiMail/></Link></button>
         <button onClick={this.handleToggleClick} className={"menu-trigger" + (this.state.showMenu ? " is-active" : "")}>
