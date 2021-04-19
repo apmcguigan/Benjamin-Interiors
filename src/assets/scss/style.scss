@@ -441,7 +441,9 @@ article img {
 	}
 }
 .fb_button {
-	margin-right: 28px !important;
+	@media (min-width: $breakpoint-lg) {
+		margin-right: 28px;
+	}
 }
 
 .pagination {
