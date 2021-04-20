@@ -1,6 +1,7 @@
 @import "theme-variables";
 @import "defaults";
 @import "lib/css-grid-utility";
+@import "fonts/zodiak.css";
 
 // .primary-container {
 // 	display: grid;
@@ -115,6 +116,7 @@
 	padding-top: 60px;
 }
 .site-logo {
+	font-family: zodiak;
   font-weight: bold;
 	text-align: center !important;
 	background-color: #9CAF88;
