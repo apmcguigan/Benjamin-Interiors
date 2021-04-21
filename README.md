@@ -4,9 +4,10 @@
 
 # Benjamin Interiors
 
-A beautiful, responsive site built for a client with [Gatsby][gatsby] and allows the business owner to edit content easily using [Netlify CMS][netlifyCMS].
+A beautiful, responsive site built for a client with Gatsby and allows the business owner to edit content easily using Netlify CMS.
 
-[![Stackrole's Starter](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://foundation.stackrole.com)
+Built upon 
+[![Stackrole's Starter]](https://foundation.stackrole.com)
 
 ## 🤖 Features
 - Responsive Web Design
