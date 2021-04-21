@@ -7,7 +7,7 @@
 A beautiful, responsive site built for a client with Gatsby and allows the business owner to edit content easily using Netlify CMS.
 
 Built upon 
-[![Stackrole's Starter]](https://foundation.stackrole.com)
+[Stackrole's Starter](https://foundation.stackrole.com)
 
 ## 🤖 Features
 - Responsive Web Design
