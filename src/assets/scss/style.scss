@@ -30,6 +30,11 @@
 	}
 
 .site-navigation {
+		margin: 0px 25px;
+
+		@media (max-width: $breakpoint-lg) {
+			margin: 10px 10px 0px;
+		}
   ul {
     list-style: none;
     margin: 0;
@@ -440,11 +445,6 @@ article img {
 	a {
 		display: flex;
 		padding: 0px;
-	}
-}
-.fb_button {
-	@media (min-width: $breakpoint-lg) {
-		margin-right: 28px;
 	}
 }
 
