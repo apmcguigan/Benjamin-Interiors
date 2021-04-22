@@ -12,15 +12,11 @@ const NotFound = () => (
       textAlign: "center"
     }}>
       <header>
-        <RiSkullLine style={{
-          fontSize: "128px",
-          color: "var(--primary-color)"
-        }}/>
-        <h1>Oops we did not expect that to happen</h1>
-        <p>Have you wondered into the unknow. Let us help you, Please take a look at below options</p>
+        <h1>The Page you were looking for does not exist</h1>
+        <p>Sorry for any inconvenience. Please review the options below</p>
       </header>
       <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Back to Homepage</Link>
-      <Link to="/contact" className="button -outline">Report this <RiBugLine className="icon -right"/></Link>
+      <Link to="/contact" className="button -outline">Report Error <RiBugLine className="icon -right"/></Link>
     </div>
   </Layout>
 )

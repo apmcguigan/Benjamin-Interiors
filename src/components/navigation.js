@@ -50,15 +50,15 @@ class Navigation extends React.Component {
     return (
       <nav className="site-navigation" sx={navStyle.menu}>
 
-      <button className="header-socials fb_button">
-         <a href="https://www.facebook.com/Benjamin-Interiors-100653905261930/" target="_blank">  <FiFacebook/></a></button>
+      <button className="header-socials fb_button" >
+         <a href="https://www.facebook.com/Benjamin-Interiors-100653905261930/" target="_blank" aria-label="Facebook">  <FiFacebook/></a></button>
 
-       <button className="header-socials"><a href="https://www.instagram.com/benjamin_interiors/"
-          target="_blank"> 
+       <button className="header-socials" ><a href="https://www.instagram.com/benjamin_interiors/"
+          target="_blank" aria-label="Instagram"> 
           <FiInstagram/></a></button>
 
-       <button className="header-socials"><Link to="/contact"> <FiMail/></Link></button>
-        <button onClick={this.handleToggleClick} className={"menu-trigger" + (this.state.showMenu ? " is-active" : "")}>
+       <button className="header-socials" ><Link to="/contact" aria-label="Email"> <FiMail/></Link></button>
+        <button aria-label="Menu trigger" onClick={this.handleToggleClick} className={"menu-trigger" + (this.state.showMenu ? " is-active" : "")}>
           <div className="icon-menu-line"><RiMenu3Line/></div>
           <div className="icon-menu-close"><RiCloseLine/></div>
         </button>

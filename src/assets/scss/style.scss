@@ -338,6 +338,9 @@ article img {
 .contact-page,
 .thanks-page,
 .not-found-page {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	padding: 50px 20px;
 	.wrapper {
 		max-width: 768px;
