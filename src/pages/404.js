@@ -15,7 +15,7 @@ const NotFound = () => (
         <h1>The Page you were looking for does not exist</h1>
         <p>Sorry for any inconvenience. Please review the options below</p>
       </header>
-      <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Back to Homepage</Link>
+      <Link to="/" className="button bugReport"><RiArrowLeftSLine className="icon -left"/>Back to Homepage</Link>
       <Link to="/contact" className="button -outline">Report Error <RiBugLine className="icon -right"/></Link>
     </div>
   </Layout>

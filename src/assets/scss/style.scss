@@ -332,15 +332,18 @@ article img {
 	}
 }
 
+.bugReport {
+	@media (max-width: $breakpoint-lg) {
+	margin: 10px;
+}
+}
+
 // Page
 .page,
 .blog-page,
 .contact-page,
 .thanks-page,
 .not-found-page {
-	display: flex;
-	justify-content: center;
-	align-items: center;
 	padding: 50px 20px;
 	.wrapper {
 		max-width: 768px;
