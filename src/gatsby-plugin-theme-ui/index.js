@@ -2,7 +2,7 @@ export default {
   colors: {
     text: '#000000',
     background: '#FFF',
-    primary: '#dedcd6',
+    primary: '#6C6C6C',
     accent: '#fff',
     muted: '#7a8890',
     cardBg: '#fff',
