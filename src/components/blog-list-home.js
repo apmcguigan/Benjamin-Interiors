@@ -11,8 +11,9 @@ const PostMaker = ({ data }) => (
     <div className="grids col-1 sm-2 lg-3">
       {data}
     </div>
+    <p class="right-align">
     <Link 
-      className="button" 
+      className="button see-more" 
       to="/blog"
       sx={{
         variant: 'links.button'
@@ -20,6 +21,7 @@ const PostMaker = ({ data }) => (
     >
       See more<span class="icon -right"><RiArrowRightSLine/></span>
     </Link>
+    </p>
   </section>
 )
 

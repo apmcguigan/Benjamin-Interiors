@@ -331,6 +331,11 @@ article img {
 	}
 }
 
+.right-align {
+	margin: 0px;
+	text-align: right;
+}
+
 .bugReport {
 	@media (max-width: $breakpoint-lg) {
 	margin: 10px;
