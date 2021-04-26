@@ -1,8 +1,8 @@
 export default {
   colors: {
     text: '#000000',
-    background: '#F0F0F0',
-    primary: '#9CAF88',
+    background: '#FFF',
+    primary: '#dedcd6',
     accent: '#fff',
     muted: '#7a8890',
     cardBg: '#fff',
