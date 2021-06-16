@@ -2,7 +2,7 @@
 template: blog-post
 title: Moss Bowl DIY
 slug: /moss-bowl
-date: 2021-04-05 17:06
+date: 2021-06-16 00:59
 description: Moss bowl DIY
 featuredImage: /assets/finish-moss-bowl.jpg
 ---
