@@ -4,7 +4,7 @@ title: Moss Bowl DIY
 slug: /moss-bowl
 date: 2021-04-05 17:06
 description: Moss bowl DIY
-featuredImage: ""
+featuredImage: /assets/finish-moss-bowl.jpg
 ---
 Step by Step MOSS BOWL DIY
 
