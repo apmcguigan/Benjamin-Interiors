@@ -5,15 +5,15 @@ const Gallery = () => (
 <div> 
   <div className="row">
     <div className="column">
-    <a target="_blank" href="https://www.instagram.com/p/CMe3E3NJDiy/"><img src="/assets/image1.jpg" alt="Instagram Dining Table"></img></a>
+    <a target="_blank" href="https://www.instagram.com/benjamin_interiors/"><img src="/assets/image1.jpg" alt="Instagram Dining Table"></img></a>
     </div>
     <div className="column">
-    <a target="_blank" href="https://www.instagram.com/p/CLMsS-tpUck/">
+    <a target="_blank" href="https://www.instagram.com/benjamin_interiors/">
       <img src="/assets/image2.jpg" alt="Instagram Bedroom">
     </img></a>
     </div>
     <div className="column">
-    <a target="_blank" href="https://www.instagram.com/p/CMNZwyvp5Qd/">
+    <a target="_blank" href="https://www.instagram.com/benjamin_interiors/">
       <img src="/assets/image3.jpg" alt="Instagram Work Desk">
       </img>
       </a>
@@ -22,15 +22,15 @@ const Gallery = () => (
   
   <div className="row">
     <div className="column">
-      <a target="_blank" href="https://www.instagram.com/p/CK1nF6qJKWn/"><img src="/assets/image4.jpg" alt="Instagram Living Room"></img></a>
+      <a target="_blank" href="https://www.instagram.com/benjamin_interiors/"><img src="/assets/image4.jpg" alt="Instagram Living Room"></img></a>
     </div>
     <div className="column">
-      <a  target="_blank" href="https://www.instagram.com/p/CJ_fZaPFlsS/">
+      <a  target="_blank" href="https://www.instagram.com/benjamin_interiors/">
       <img src="/assets/image5.jpg" alt="Instagram Bathroom"></img>
       </a>
     </div>
     <div className="column">
-      <a target="_blank" href="https://www.instagram.com/p/CKKHgNnl-QV/">
+      <a target="_blank" href="https://www.instagram.com/benjamin_interiors/">
       <img src="/assets/image6.jpg" alt="Instagram Reading Nook"></img>
       </a>
     </div>
