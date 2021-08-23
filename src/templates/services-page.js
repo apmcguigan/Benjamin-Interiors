@@ -31,6 +31,8 @@ const ServicesPage = ({ data }) => {
       <SEO/>
         <div>
           <h1 className="title">{frontmatter.title}</h1>
+          <div className="description" dangerouslySetInnerHTML={{ __html: html }} 
+          />
         </div>
 		</Layout>
 	)
