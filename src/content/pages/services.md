@@ -1,14 +1,46 @@
 ---
 template: services-page
 slug: /services
-title: Services
+title: Design Services
 ---
-**Dummy text? More like dummy thicc text, amirite?**
+**1 on 1 consultation**
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vitae consectetur turpis. Nullam eleifend quam id justo porta mollis. Donec hendrerit lorem eget libero venenatis, sed vestibulum risus aliquam. In hac habitasse platea dictumst. Nullam quis nunc bibendum, mollis ex pharetra, sodales orci. Etiam quis leo enim. Donec at turpis sagittis, imperdiet ipsum non, interdum diam. Fusce blandit ante a orci porta viverra vel placerat odio.
+This package is for those that have a problem area in their home, or are looking for a little help in perfecting their room(s). We will hop on a phone call or video chat for 1 hour and you can ask me any questions you have about decorating your home. I ask that photos of the rooms or spaces you would like help with be sent ahead of time via email so that during our meeting we can get right into designing. After the call I will send along a recap of our discussion so you will be able to look back on what we talked about anytime.
 
-* Sed ullamcorper hendrerit dapibus. In hac habitasse platea dictumst. Mauris ultricies turpis massa, a eleifend turpis pulvinar id. Quisque faucibus metus a elit tempus varius. Pellentesque euismod, urna a tincidunt vestibulum, augue eros faucibus risus, a egestas nunc mauris volutpat ligula. Sed feugiat nisl quis viverra molestie. Vivamus blandit ligula sit amet tortor rutrum, eu finibus augue vulputate. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus facilisis finibus diam, vel tincidunt sapien accumsan et. Maecenas tristique bibendum orci at blandit. Nam consequat ornare convallis. Aenean a bibendum arcu, in tempor erat. Nulla pulvinar, risus vel mollis dictum, augue orci scelerisque velit, eu vulputate ipsum elit sit amet nunc. Proin eu faucibus purus. Integer suscipit lacus eros, eu euismod ante gravida eu. Aenean erat ipsum, tincidunt sed malesuada et, porttitor eu ex.
+* one hour 1on1 call
+* discuss any areas in your home 
+* ask questions you have about decorating
+* recap document detailing what we discussed
 
-* Quisque congue turpis et orci venenatis tincidunt. Maecenas massa velit, condimentum a convallis sit amet, tempus consequat mi. Proin convallis quam eros, vitae malesuada velit interdum tincidunt. Donec elementum feugiat nisl, ut sollicitudin magna. Sed ut varius nulla. Cras quis pretium est. Mauris dictum lectus non tempus efficitur.
 
-* In mattis purus porttitor vestibulum sagittis. Sed maximus, enim a pretium interdum, quam ligula vulputate neque, nec mollis ex orci vel elit. Suspendisse euismod purus magna. Vestibulum quis augue justo. Praesent porttitor tortor a purus varius, sed rhoncus nibh fermentum. Nam egestas sed diam a lobortis. Nunc non faucibus nibh. Integer faucibus lobortis feugiat. Praesent quis luctus sapien, id placerat metus. Praesent suscipit dui risus, nec congue quam malesuada at. Praesent porttitor, enim id finibus condimentum, quam ipsum finibus ipsum, at ullamcorper magna mauris a nunc. Cras maximus lacinia felis. Etiam sapien neque, ultricies eu efficitur id, ornare eu est.
+
+
+
+**eDesign Package (One Room)**
+
+An eDesign is my all-in-one package service. We start off with a 1 hour phone consultation to discuss plans and what requirements you have to ensure all of your needs are met. I then go create a Design Board for the space you have chosen. Once I send you your design board this is the time you will be able to request any revisions. After the revisions (if needed) I will send you your design board along with notes associated with the items in the board. Think of it kind of like instructions on how to decorate the space as if I was there in person.
+
+* 1hr consultation call to discuss plans and what needs to be done
+* design board and everything that comes along with it
+* detailed document explaining how to implement the design board
+* one revision allowed per board
+
+
+
+
+
+**Other Design Services**
+
+\-   Packages listed above also available in person
+
+\-   Some in-home design services available in PEI upon request.
+
+* For custom projects outside the scope of services listed above, please contact me for rates.
+
+
+
+I look forward to hearing from you and working together.\
+\
+Helping you live your best life at home.
+
+\- Benjamin McGuigan
