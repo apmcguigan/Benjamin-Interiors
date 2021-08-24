@@ -25,7 +25,7 @@ An eDesign is my all-in-one package service. We start off with a 1 hour phone co
 * detailed document explaining how to implement the design board
 * one revision allowed per board
 
-
+ 
 
 
 
@@ -36,6 +36,8 @@ An eDesign is my all-in-one package service. We start off with a 1 hour phone co
 \-   Some in-home design services available in PEI upon request.
 
 * For custom projects outside the scope of services listed above, please contact me for rates.
+
+
 
 
 
