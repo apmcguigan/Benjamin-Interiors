@@ -3,6 +3,8 @@ template: services-page
 slug: /services
 title: Design Services
 ---
+# **Design Packages**
+
 **1 on 1 consultation**
 
 This package is for those that have a problem area in their home, or are looking for a little help in perfecting their room(s). We will hop on a phone call or video chat for 1 hour and you can ask me any questions you have about decorating your home. I ask that photos of the rooms or spaces you would like help with be sent ahead of time via email so that during our meeting we can get right into designing. After the call I will send along a recap of our discussion so you will be able to look back on what we talked about anytime.
@@ -11,10 +13,6 @@ This package is for those that have a problem area in their home, or are looking
 * discuss any areas in your home 
 * ask questions you have about decorating
 * recap document detailing what we discussed
-
-
-
-
 
 **eDesign Package (One Room)**
 
@@ -25,9 +23,9 @@ An eDesign is my all-in-one package service. We start off with a 1 hour phone co
 * detailed document explaining how to implement the design board
 * one revision allowed per board
 
- 
+  ![](/assets/1.jpg "Design Boards")
 
-
+  ![](/assets/2.jpg "Link Board")
 
 **Other Design Services**
 
@@ -35,14 +33,12 @@ An eDesign is my all-in-one package service. We start off with a 1 hour phone co
 
 \-   Some in-home design services available in PEI upon request.
 
+
+
 * For custom projects outside the scope of services listed above, please contact me for rates.
 
 
 
-
-
-I look forward to hearing from you and working together.\
-\
-Helping you live your best life at home.
+I look forward to hearing from you and working together.
 
 \- Benjamin McGuigan
