@@ -25,7 +25,7 @@ An eDesign is my all-in-one package service. We start off with a 1 hour phone co
 
   ![](/assets/2.jpg "Link Board")
 
-[](https://www.benjamininteriors.ca/contact?subject=edesign)**[Other Design Services](https://www.benjamininteriors.ca/contact)**
+**Other Design Services**
 
 \-   Packages listed above also available in person
 
