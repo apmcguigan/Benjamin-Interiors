@@ -1,9 +1,9 @@
 ---
 template: services-page
 slug: /services
-title: Design Packages
+title: Design Services
 ---
-***Design Consultation $99***
+***Design Consultation $99 (Available Digitally)***
 
 A general ask all for any and every area of your home. From paint color, furniture placement, to where to hang art, I will answer all your design questions. Go over samples before a project or simply get a professional opinion on decorating your home. This consultation can be fully virtual or in person for those on PEI. Design Consultations are 2 hours.
 
@@ -12,7 +12,7 @@ A general ask all for any and every area of your home. From paint color, furnitu
 * Go over ideas before a project
 * Walk through I would decorate a space best for your family
 
-***Design Board (e-design)  $199***
+***Design Board $199 (Available Digitally)***
 
 After an initial consultation I will create a digital Design board. This could have a selection of paint colours, furniture, and decor inspiration, etc that would work well in your space. I will work within your design style to create multiple options as you take this design board and move forward with the project independently. 
 
@@ -32,7 +32,7 @@ Have a professional opinion along with you for an entire day. Pick out your home
 * No costly mistakes
 * Professional guidance reduces time mistakes
 
-***Designer by Your Side $699***
+***Designer by Your Side $699 (Available Digitally)***
 
 Have a professional Design opinion along with you every step of the way. Having a Designer by Your Side means that as you go along the renovation/home building process you have a professional opinion to run things by. Get my opinion on the things that matter most like picking lighting, flooring, tiles that work together. This package includes 20 hours that can be used over time, so you can ask questions as they arise in your project.
 
