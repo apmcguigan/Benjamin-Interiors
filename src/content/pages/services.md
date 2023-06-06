@@ -32,7 +32,7 @@ Have a professional opinion along with you for an entire day. Pick out your home
 * No costly mistakes
 * Professional guidance reduces time mistakes
 
-***Designer by Your Side $650 (Available Digitally)***
+***Designer by Your Side $700 (Available Digitally)***
 
 Have a professional Design opinion along with you every step of the way. Having a Designer by Your Side means that as you go along the renovation/home building process you have a professional opinion to run things by. Get my opinion on the things that matter most like picking lighting, flooring, tiles that work together. This package includes 20 hours that can be used over time, so you can ask questions as they arise in your project.
 
